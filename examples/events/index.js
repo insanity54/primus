@@ -23,7 +23,7 @@ try { Primus = require('../../'); }
 catch (e) { Primus = require('primus'); }
 
 //
-// Some build in Node.js modules that we need:
+// Some built in Node.js modules that we need:
 //
 var http = require('http')
   , fs = require('fs');
